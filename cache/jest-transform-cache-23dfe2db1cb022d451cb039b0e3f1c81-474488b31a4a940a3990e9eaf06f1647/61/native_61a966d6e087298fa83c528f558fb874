@@ -1,0 +1,11 @@
+f1593de2cdcdc2f41aff8e0d0df0bc11
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var randomUUID = typeof crypto !== 'undefined' && crypto.randomUUID && crypto.randomUUID.bind(crypto);
+var _default = {
+  randomUUID: randomUUID
+};
+exports.default = _default;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJyYW5kb21VVUlEIiwiY3J5cHRvIiwiYmluZCIsIl9kZWZhdWx0IiwiZXhwb3J0cyIsImRlZmF1bHQiXSwic291cmNlcyI6WyJuYXRpdmUuanMiXSwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgcmFuZG9tVVVJRCA9IHR5cGVvZiBjcnlwdG8gIT09ICd1bmRlZmluZWQnICYmIGNyeXB0by5yYW5kb21VVUlEICYmIGNyeXB0by5yYW5kb21VVUlELmJpbmQoY3J5cHRvKTtcbmV4cG9ydCBkZWZhdWx0IHtcbiAgcmFuZG9tVVVJRFxufTsiXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxJQUFNQSxVQUFVLEdBQUcsT0FBT0MsTUFBTSxLQUFLLFdBQVcsSUFBSUEsTUFBTSxDQUFDRCxVQUFVLElBQUlDLE1BQU0sQ0FBQ0QsVUFBVSxDQUFDRSxJQUFJLENBQUNELE1BQU0sQ0FBQztBQUFDLElBQUFFLFFBQUEsR0FDekY7RUFDYkgsVUFBVSxFQUFWQTtBQUNGLENBQUM7QUFBQUksT0FBQSxDQUFBQyxPQUFBLEdBQUFGLFFBQUEifQ==

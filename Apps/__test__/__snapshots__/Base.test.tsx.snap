@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a form with three text inputs, two selections, and one submit component renders correctly 1`] = `ShallowWrapper {}`;
